@@ -44,8 +44,8 @@
     jiekx: {
       kicker: 'CASE / 02 — 品牌官网',
       title: '杰克熊拼豆大王品牌官网',
-      link: '',
-      note: '交付客户使用，未绑定公开域名；截图为交付版本。',
+      link: 'http://www.jiekexiong.com/',
+      note: '线上可访问：jiekexiong.com',
       points: [
         'PbootCMS 定制主题 jkx，覆盖产品 / 门店案例 / 加盟 / 新闻',
         '产品、案例、礼盒数据初始化脚本，打通图片上传链路',
